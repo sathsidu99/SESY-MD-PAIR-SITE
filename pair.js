@@ -8,18 +8,18 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/pkdriller/NEXUS-XMD 
+https://github.com/sathsidu99/SESY-MD
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.pkdriller
+https://t.sasi_9x
 *Whatsapp channel 
-https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+https://whatsapp.com/channel/0029Vb5KcUHJuyAGVPAed21a
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/pkdriller 
+https://youtube.com/sasi
 
-*NEXUS-XMD--WHATTSAPP-BOT* 🥀
+*ＳΞＳＹ-ＭＤ-WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
@@ -87,7 +87,7 @@ router.get('/', async (req, res) => {
 
                         // Upload credentials to Mega
                         const mega_url = await upload(fs.createReadStream(auth_path + 'creds.json'), `${randomMegaId()}.json`);
-                        const Id_session = mega_url.replace('https://mega.nz/file/', 'pkdriller~');
+                        const Id_session = mega_url.replace('https://mega.nz/file/', '𝚂𝙴𝚂𝚈~);
 
                         const Scan_Id = Id_session;
 
