@@ -16,17 +16,19 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+https://github.com/sathsidu99/SESY-MD
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://t.me/sasi_9x
+
+https://whatsapp.com/channel/0029Vb5KcUHJuyAGVPAed21a
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+https://youtube.com/sasi
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*ＳΞＳＹ-ＭＤ--WHATTSAPP-BOT*
+
 `
 
 
